@@ -36,3 +36,5 @@ function fizzBuzz(num) {
   return arr;
 }
 console.log(fizzBuzz("15"));
+console.log(fizzBuzz(30));
+console.log(fizzBuzz("afygfsygacsgxc"));
